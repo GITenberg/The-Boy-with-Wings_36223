@@ -1,0 +1,33 @@
+_repo: The-Boy-with-Wings_36223
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36223-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Ruck, Berta
+    aliases:
+    - Onions, Mrs. Oliver
+    - Ruck, Amy Roberta
+    - Onions, Oliver, Mrs.
+    birthdate: 1878
+    deathdate: 1978
+    gutenberg_agent_id: '38157'
+    url: http://www.gutenberg.org/2009/agents/38157
+description: Published in England as "The Lad with Wings."
+gutenberg_issued: '2011-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Air pilots, Military -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+title: The Boy with Wings
+url: http://www.gutenberg.org/ebooks/36223
